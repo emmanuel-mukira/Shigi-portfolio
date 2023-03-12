@@ -187,4 +187,9 @@ table {
     font-weight:bold;
     color:orangered;
     font-size:20px;
+    display:inline;
+  }
+  .contactme i{
+    color:black;
+    font-size:25px;
   }
