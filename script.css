@@ -179,3 +179,7 @@ table {
     font-size: 30px;
     display:inline;
   }
+  .projects p{
+    font-weight:bold;
+    
+  }
