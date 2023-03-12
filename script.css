@@ -175,7 +175,7 @@ table {
     display:inline;
     color:black;
   }
-  .projects{
-    font: size 30px;
+  .projects h6{
+    font-size: 30px;
     display:inline;
   }
